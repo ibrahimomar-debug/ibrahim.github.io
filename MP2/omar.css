@@ -1,0 +1,29 @@
+.circle{
+	border-radius: 50%;
+	float: none;
+}
+
+.text{
+	font-size: 15px;
+	font-family: Verdana;
+	line-height: 1.5;
+	text-align: justify;
+  	text-justify: inter-word;
+}
+.text_container{
+	text-indent: 50px;
+	margin-top: 50px;
+  	margin-bottom: 100px;
+  	margin-right: 150px;
+  	margin-left: 80px;
+}
+
+.quotation{
+	font-size: 30px;
+	font-style: italic;
+	line-height: 1.5;
+	text-align: justify;
+  	text-justify: inter-word;
+}
+
+
